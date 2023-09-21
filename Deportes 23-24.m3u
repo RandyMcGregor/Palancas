@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga
@@ -19,7 +21,9 @@ acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png" ,Movistar Liga de Campeones 2
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula 1
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 4K
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula 1
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
