@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" , Barca-Atm.Madrid
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
