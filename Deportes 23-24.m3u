@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" 
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Copa_del_Rey_2021_(red_badge).png" ,COPA DEL REY
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
