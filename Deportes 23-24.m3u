@@ -52,6 +52,8 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS HD
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS 
+#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Por si fallan los anteriores (otro idioma)
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.goalzz.com/?i=o/h/1/216/bein-sports-french-1.png" ,Por si fallan los anteriores (otro idioma)
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.goalzz.com/?i=o/h/1/211/bein-sports-french-1.png" ,Por si fallan los anteriores (otro idioma)
