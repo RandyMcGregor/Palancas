@@ -61,5 +61,7 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-id="Viaplay Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" ,Por si fallan los anteriores (otro idioma)
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="Viaplay Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest/scale-to-width-down/250?cb=20230516195653" ,Por si fallan los anteriores (otro idioma)
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Por si fallan los anteriores (otro idioma)
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
