@@ -53,19 +53,21 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS
 acestream://45eab0695ce13
-#EXTINF:-1 tvg-id="Bein Sports 1 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/216/bein-sports-french-1.png" ,Bein Sports 1 FHD
+#EXTINF:-1 tvg-id="Bein Sports 1 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/216/bein-sports-french-1.png" ,Bein Sports 1 FHD FRANCIA
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="beIN SPORTS 2 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/211/bein-sports-french-1.png" ,Bein Sports 2 FHD
+#EXTINF:-1 tvg-id="beIN SPORTS 2 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/211/bein-sports-french-1.png" ,Bein Sports 2 FHD FRANCIA
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://i.postimg.cc/JnytndG2/eleven-sport-1.png" ,Eleven Sports 1 Portugal FHD
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://i.postimg.cc/JnytndG2/eleven-sport-1.png" ,Eleven Sports 1 FHD PORTUGAL
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 Polonia FHD
+#EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 FHD POLONIA
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 Polonia 4K
+#EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 4K POLONIA
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-id="Viaplay Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" , Premier Sports 1 FHD
+#EXTINF:-1 tvg-id="Viaplay Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" , Premier Sports 1 FHD INGLATERRA
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="Viaplay Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest/scale-to-width-down/250?cb=20230516195653" ,Premier Sports 2 FHD
+#EXTINF:-1 tvg-id="Viaplay Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest/scale-to-width-down/250?cb=20230516195653" ,Premier Sports 2 FHD INGLATERRA
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Ziggo Sport Select FHD
+#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Ziggo Sport Select FHD HOLANDA
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Ziggo_Sport_Voetbal.svg/revision/latest?cb=20210222130814" ,Ziggo Sport Voetbal FHD HOLANDA
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
