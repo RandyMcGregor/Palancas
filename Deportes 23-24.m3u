@@ -63,10 +63,16 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://i.postimg.cc/JnytndG2/eleven-sport-1.png" ,Eleven Sports 1 FHD PORTUGAL
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_2.png" ,Eleven Sports 2 FHD PORTUGAL
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest?cb=20210210162837" ,Eleven Sports 3 FHD PORTUGAL
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" ,Eleven Sports 4 FHD PORTUGAL
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 FHD POLONIA
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-id="Elevensports1.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 4K POLONIA
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Ziggo Sport Select FHD HOLANDA
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000&format=webp&quality=80" ,Ziggo Sport Voetbal FHD HOLANDA
