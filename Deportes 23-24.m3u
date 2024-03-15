@@ -69,13 +69,21 @@ acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-logo="https://i.postimg.cc/sf8v8XnP/Eleven-4.png" ,Eleven Sports 4 FHD PORTUGAL
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="Eleven Sports 1 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 FHD POLONIA
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-id="Eleven Sports 1 4K.pl" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" ,Eleven Sports 1 4K POLONIA
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-id="Elevensports2.pl" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/f/ff/Es2ekr2018-19.png/revision/latest?cb=20211229173554&path-prefix=pl" ,Eleven Sports 2 FHD POLONIA 
+#EXTINF:-1 tvg-id="Eleven Sports 1 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 FHD POLONIA
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/f/ff/Es2ekr2018-19.png/revision/latest?cb=20211229173554&path-prefix=pl" ,Eleven Sports 2 FHD POLONIA 
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD.pl" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg" ,Eleven Sports 3 FHD POLONIA
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" ,Eleven Sports 4 FHD POLONIA
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-id="CANAL+ Sport 2 HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" ,CANAL+ Sport 2 FHD POLONIA
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Ziggo Sport Select FHD HOLANDA
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000&format=webp&quality=80" ,Ziggo Sport Voetbal FHD HOLANDA
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 tvg-id="Ziggo Sport Racing" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png" ,Ziggo Sport Racing FHD HOLANDA
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
