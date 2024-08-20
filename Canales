@@ -1,61 +1,101 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/generate/BEB07RtPPp.xml"  
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD 
-acestream://1969c27658d4c8333ab2c0670802546121a774a5 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/generate/BEB07RtPPp.xml" 
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga HD 
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga HD
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" ,LaLiga TV Bar FHD 
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png" ,LaLiga TV Bar FHD
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" ,Movistar Plus+ FHD 
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD 
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD 
-acestream://75251ba975132ec9a202806ba5bf606e87280c96 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga HD 
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD 
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD 
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD 
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones HD 
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,Movistar Liga de Campeones 2 FHD 
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,Movistar Liga de Campeones 2 HD 
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,Movistar Liga de Campeones 3 FHD 
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,Movistar Liga de Campeones 3 HD 
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 FHD 
-acestream://5789ca155323664edd293b848606688edf803f4d 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 FHD 
-acestream://9dad717d99b29a05672166258a77c25b57713dd5 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 HD 
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD 
-acestream://8ca07071b39185431f8e940ec98d1add9e561639 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD 
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 FHD 
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD 
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png" ,DAZN 3 FHD 
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/dazn-4.png" ,DAZN 4 FHD 
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd 
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD 
-acestream://d00223931b1854163e24c5c22475015d7d45c112 
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes HD 
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c 
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS FHD 
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS HD 
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" ,Movistar Plus+ FHD
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga HD
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones FHD
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar Liga de Campeones HD
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,Movistar Liga de Campeones 2 FHD
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,Movistar Liga de Campeones 2 HD
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,Movistar Liga de Campeones 3 FHD
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,Movistar Liga de Campeones 3 HD
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 FHD
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 FHD
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 HD
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 FHD
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png" ,DAZN 3 FHD
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/dazn-4.png" ,DAZN 4 FHD
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes HD
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS FHD
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS HD
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&usqp=CAU" , Eurosport 4K
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
+#EXTINF:-1 tvg-id="La 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/2560px-Logo_La_1_UHD_2024.svg.png" , La 1 UHD
+acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS
+acestream://45eab0695ce13
+#EXTINF:-1 tvg-id="Premier Sports 1.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" , Premier Sports 1 FHD IRLANDA
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="Premier Sports 2.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest/scale-to-width-down/250?cb=20230516195653" ,Premier Sports 2 FHD IRLANDA
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-id="Bein Sports 1 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/216/bein-sports-french-1.png" ,Bein Sports 1 FHD FRANCIA
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="beIN SPORTS 2 fra" tvg-logo="https://i.goalzz.com/?i=o/h/1/211/bein-sports-french-1.png" ,Bein Sports 2 FHD FRANCIA
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="Eleven Sports 1 POR" tvg-logo="https://i.postimg.cc/MHrKJsbK/Eleven-1.png" ,Eleven Sports 1 FHD PORTUGAL
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-logo="https://i.postimg.cc/jd4Yf3JW/Eleven-2.png" ,Eleven Sports 2 FHD PORTUGAL
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-logo="https://i.postimg.cc/QMbFnJPV/Eleven-3.png" ,Eleven Sports 3 FHD PORTUGAL
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-logo="https://i.postimg.cc/sf8v8XnP/Eleven-4.png" ,Eleven Sports 4 FHD PORTUGAL
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="Eleven Sports 1 4K.pl" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" ,Eleven Sports 1 4K POLONIA
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-id="Eleven Sports 1 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest/scale-to-width-down/250?cb=20210210162341" ,Eleven Sports 1 FHD POLONIA
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/f/ff/Es2ekr2018-19.png/revision/latest?cb=20211229173554&path-prefix=pl" ,Eleven Sports 2 FHD POLONIA 
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD.pl" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg" ,Eleven Sports 3 FHD POLONIA
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest/scale-to-width-down/250?cb=20210210163056" ,Eleven Sports 4 FHD POLONIA
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-id="CANAL+ Sport 2 HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" ,CANAL+ Sport 2 FHD POLONIA
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="Ziggo Sport Select.nl" tvg-logo="https://i.goalzz.com/?i=logo_sport/ziggo_sport_select.jpg" ,Ziggo Sport Select FHD HOLANDA
+acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 tvg-id="Ziggo Sport Voetbal.nl" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000&format=webp&quality=80" ,Ziggo Sport Voetbal FHD HOLANDA
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 tvg-id="Ziggo Sport Racing.nl" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png" ,Ziggo Sport Racing FHD HOLANDA 
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
