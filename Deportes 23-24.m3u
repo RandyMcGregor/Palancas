@@ -60,9 +60,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS HD
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="Eurosport 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&usqp=CAU" , Eurosport 4K
-acestream://c525471499b936decc037ea86e0f8125ebf78c28
-#EXTINF:-1 tvg-id="La 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/2560px-Logo_La_1_UHD_2024.svg.png" , La 1 UHD
-acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS
 acestream://45eab0695ce13
 #EXTINF:-1 tvg-id="Premier Sports 1.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" , Premier Sports 1 FHD IRLANDA
