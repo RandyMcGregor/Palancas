@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/generate/BEB07RtPPp.xml" 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
+https://assets.goal.com/images/v3/blt89b8d3ce74e9b510/Lamine_Yamal_Barcelona_2023-24_(3).jpg?auto=webp&format=pjpg&width=1200&quality=60
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -62,7 +64,9 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 FHD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 FHD
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS
 acestream://45eab0695ce13
 #EXTINF:-1 tvg-id="Premier Sports 1.ie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Premier_Sports_1_III.svg/revision/latest/scale-to-width-down/250?cb=20230516195441" , Premier Sports 1 FHD IRLANDA
