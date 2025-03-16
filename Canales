@@ -88,6 +88,12 @@ acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN Fórmula1 HD
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
+acestream://46a672a4dfc910eebcf869d48a2efec2af1b54d7
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
+acestream://20e01f934e60fe20feac8e14806cce08a2a2bf43
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
+acestream://719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 FHD
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png" ,DAZN 1 HD
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
@@ -95,6 +101,12 @@ acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD
+acestream://bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD
+acestream://c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/441px-DAZN_2.svg.png" ,DAZN 2 HD
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png" ,DAZN 3 FHD
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/dazn-4.png" ,DAZN 4 FHD
