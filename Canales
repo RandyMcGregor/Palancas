@@ -13,6 +13,10 @@ acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
+acestream://555855f4fc0125bfcf113648887d99a47941b3b3
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,Movistar LaLiga FHD
+acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD
 acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga FHD
@@ -181,6 +185,7 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="Ziggo Sport Racing.nl" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png" ,Ziggo Sport Racing FHD HOLANDA 
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+
 
 
 
