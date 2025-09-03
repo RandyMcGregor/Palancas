@@ -126,11 +126,57 @@ acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/dazn-4.png" ,DAZN 4 FHD
 acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://a139afc03d1623c321f6b084f79def682c492efa
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes FHD
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes HD
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS FHD
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 2 FHD
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 2 FHD
+acestream://6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 2 FHD
+acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 2 HD
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 tvg-id="M+ Deportes 3 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 3 FHD
+acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 tvg-id="M+ Deportes 3 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 3 FHD
+acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
+#EXTINF:-1 tvg-id="M+ Deportes 3 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 3 FHD
+acestream://d5271a967767f761c8812c4b6195dd40f20126f7
+#EXTINF:-1 tvg-id="M+ Deportes 3 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 3 HD
+acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-id="M+ Deportes 4 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 4 FHD
+acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-id="M+ Deportes 4 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 4 FHD
+acestream://58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-id="M+ Deportes 4 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 4 FHD
+acestream://3f97bafa133b10cfe5c62311e11501326d886a53
+#EXTINF:-1 tvg-id="M+ Deportes 4 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 4 FHD
+acestream://ebf3f251c1e119aefc6a1efc95c9b5d1909249e2
+#EXTINF:-1 tvg-id="M+ Deportes 5 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 5 FHD
+acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
+#EXTINF:-1 tvg-id="M+ Deportes 5 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 5 FHD
+acestream://5913205fb6d6d162a50222709aab6129eb7cf916
+#EXTINF:-1 tvg-id="M+ Deportes 5 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 5 FHD
+acestream://2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
+#EXTINF:-1 tvg-id="M+ Deportes 5 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 5 FHD
+acestream://0b708083541a46dc15216c8003d7bcf39c458b2a
+#EXTINF:-1 tvg-id="M+ Deportes 6 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 6 FHD
+acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
+#EXTINF:-1 tvg-id="M+ Deportes 6 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 6 FHD
+acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS FHD
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/320px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" ,VAMOS FHD
