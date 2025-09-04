@@ -61,9 +61,9 @@ acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
-#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://logos.fandom.com/es/wiki/Primera_Federaci%C3%B3n?file=Logo_Primera_RFEF_2021.png" group-title="1RFEF", 1RFEF 1
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="1RFEF", 1RFEF 1
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://logos.fandom.com/es/wiki/Primera_Federaci%C3%B3n?file=Logo_Primera_RFEF_2021.png" group-title="1RFEF", 1RFEF 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="1RFEF", 1RFEF 2
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 
@@ -259,6 +259,7 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="Ziggo Sport Racing.nl" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png" ,Ziggo Sport Racing  HOLANDA 
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+
 
 
 
