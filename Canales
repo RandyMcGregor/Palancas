@@ -67,7 +67,7 @@ acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN Fórmula1 
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN F1 
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN F1 
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
@@ -182,9 +182,7 @@ acestream://0b708083541a46dc15216c8003d7bcf39c458b2a
 #EXTINF:-1 tvg-id="M+ Deportes 6 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 6 
 acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-id="M+ Deportes 6 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 6 
-acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
-#EXTINF:-1 tvg-id="M+ Deportes 7 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 7 
-acestream://f7fa1e42376d1d65d1bf5abca8728dff273d02d7
+acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
 
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" group-title="OTROS", Movistar Plus+ 
