@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/generate/BEB07RtPPp.xml" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"group-title="España-NEWLOOP"tvg-id="M+ LaLiga HDR", M. LaLiga HDR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"group-title="Liga"tvg-id="M+ LaLiga HDR", M. LaLiga HDR
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
