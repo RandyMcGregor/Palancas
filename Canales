@@ -183,6 +183,8 @@ acestream://0b708083541a46dc15216c8003d7bcf39c458b2a
 acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-id="M+ Deportes 6 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 6 
 acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
+#EXTINF:-1 tvg-id="M+ Deportes 7 HD" tvg-logo="https://i.postimg.cc/wMtV4LXw/Deportes-por-Movistar-Plus.png" ,M+ Deportes 7 
+acestream://f7fa1e42376d1d65d1bf5abca8728dff273d02d7
 
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" group-title="OTROS", Movistar Plus+ 
@@ -221,4 +223,5 @@ acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
+
 
