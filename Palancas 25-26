@@ -61,10 +61,17 @@ acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
-#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 1
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 1 (Solo eventos)
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 2 (Solo eventos)
 acestream://8677d339ecddd75165c0015025f598b6215974cf
+
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN F1 
@@ -185,6 +192,7 @@ acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
 
 
+
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" group-title="OTROS", Movistar Plus+ 
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1bBPzpdVuVkIbp-wVhc8TSwo-8ex3QXOIu9P_Y63Q&s" ,Movistar Plus+ 
@@ -210,17 +218,22 @@ acestream://0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.postimg.cc/J4PD2yPT/ellas-vamos-por-movistar-plus-logo-png-seeklogo-493710.png" ,ELLAS 
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 
-acestream://704e51760a644bc90aa22269bf84139947a0414a
+acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 1 
+acestream://ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
+acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5083/5083079.png" ,CANALES EXTRANJEROS POR SI FALLAN LOS DEMÁS
 acestream://45eab0695ce13
@@ -258,5 +271,6 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="Ziggo Sport Racing.nl" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png" ,Ziggo Sport Racing  HOLANDA 
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+
 
 
