@@ -61,10 +61,17 @@ acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
-#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 1
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 1 (Solo eventos)
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 2 (Solo eventos)
 acestream://8677d339ecddd75165c0015025f598b6215974cf
+
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN F1 
@@ -226,6 +233,7 @@ acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo=https://img.favpng.com/4/4/14/eurosport-1-logo-eurosport-hd-high-definition-television-png-favpng-PLrU5tb90wGV32w3CH0dVFB6v.jpg" , Eurosport 2 
 acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+
 
 
 
