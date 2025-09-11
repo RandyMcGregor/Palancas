@@ -270,7 +270,7 @@ http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 
 
 
-#EXTGRP:"PELICULAS"
+#EXTGRP: "PELICULAS"
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eHiy2csyUQeMAIO9YXrtm0f3jX.jpg",La muerte de Belle (2025) BluRay Rip (6.2)
 acestream://001e8d72a411e8596c7445083fd3f012372d5d24
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eHiy2csyUQeMAIO9YXrtm0f3jX.jpg",La muerte de Belle (2025) BluRay 720pRip (6.2)
@@ -6307,6 +6307,7 @@ acestream://e3b368b6a5e3c5ec67ec149d8b94d72a194f641b
 # Carpeta: AÑO 2021
 #EXTINF:-1 group-title="AÑO 2021" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cYfwiE8SQ0FR9HW9cUkvB0PcMkl.jpg",No dejes de grabar (2021) web dl Hd 1080p (9.5*)
 acestream://880f9d6c56432e43f9e9c1861752926d9f1cdd14
+
 
 
 
