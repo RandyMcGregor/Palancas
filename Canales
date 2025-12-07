@@ -89,9 +89,8 @@ acestream://8677d339ecddd75165c0015025f598b6215974cf
 
 
 
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN F1 
-acestream://515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN F1 
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN F1 
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
@@ -7285,6 +7284,7 @@ acestream://8dbd9f272de34fb9fbf86db222019cb08acdde63
 acestream://69914f7665535cd60281bd745dcbba873642c194
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/em8QoLZ413gNrfKGgxvnsuS84O8.jpg",The Funeral (2023) web dl Hd 1080p [5.2*]
 acestream://cd1827d92c437759e97165e0df6a03db8c88194f
+
 
 
 
