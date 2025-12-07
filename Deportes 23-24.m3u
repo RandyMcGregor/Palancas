@@ -15,6 +15,8 @@ acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
+acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
 acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
 acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
@@ -23,9 +25,7 @@ acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
+acestream://3b5692a70c0d0d1dd23fed31d7886b4aaa64bdaa
 
 
 
@@ -76,6 +76,25 @@ acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 
 
 
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 1 (Solo eventos)
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF 2 (Solo eventos)
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+
+
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="F1", DAZN F1 
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN F1 
+acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" ,DAZN F1 
+acestream://515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://i.postimg.cc/wTkYSx03/Logo-Primera-RFEF-2021.png" group-title="1RFEF", 1RFEF MOVISTAR+
@@ -14402,6 +14421,7 @@ http://127.0.0.1:6878/ace/getstream?id=8dbd9f272de34fb9fbf86db222019cb08acdde63
 http://127.0.0.1:6878/ace/getstream?id=69914f7665535cd60281bd745dcbba873642c194
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/em8QoLZ413gNrfKGgxvnsuS84O8.jpg",The Funeral (2023) web dl Hd 1080p [5.2*]
 http://127.0.0.1:6878/ace/getstream?id=cd1827d92c437759e97165e0df6a03db8c88194f
+
 
 
 
