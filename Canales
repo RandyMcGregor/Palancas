@@ -1,29 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://www.bevy.be/generate/BEB07RtPPp.xml" 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="LIGA" tvg-id="M+ LaLiga HD", M+ LaLiga 
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+acestream://5c26bf5f96ccae8937c664d924a53166d410ac5d
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://af458073c3096293a4dea9f369d4f308e7125bd6
+acestream://2c01306506e268ba726f5c30222923b6168a5404
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
+acestream://b45cfe568e106a7df65c950805d6f123c989ce84
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/120px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ LaLiga 
-acestream://8c30b600cc48899991b452805df48b68d998e61c
+acestream://d58f619d860d29cd47720055b9bb842199971da1
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://4955867fad3bc92e5b4c36045699fc277800fb18
+acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
-acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+acestream://a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
 acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LaLiga 
@@ -7290,6 +7288,7 @@ acestream://8dbd9f272de34fb9fbf86db222019cb08acdde63
 acestream://69914f7665535cd60281bd745dcbba873642c194
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/em8QoLZ413gNrfKGgxvnsuS84O8.jpg",The Funeral (2023) web dl Hd 1080p [5.2*]
 acestream://cd1827d92c437759e97165e0df6a03db8c88194f
+
 
 
 
