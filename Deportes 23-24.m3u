@@ -39,35 +39,39 @@ acestream://244a6fd6428f6ad13034339cb382e01a0e779d9d
 
 
 EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="CHAMPIONS 26-27", M+ Liga de Campeones 
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+acestream://160e657985e1bb04ce216e8d180580f96df553bb
 EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+acestream://5e6173b43eae5c16e65c411bd6f2006e7dd7744e
 EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+acestream://ab230c6aded2f51935ac720d205e426a43d50989
 EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+acestream://67b80f6ae61f33ef780fed1feba6cc914e57ce96
 EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
+acestream://edb4474bcc59cdf2dfdea86538c2bf3b22ec4a6c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
 acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
-acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" ,M+ Liga de Campeones 
-acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
+acestream://aafbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+acestream://0d417ac9ae7c34c17f3fdb7128944c6313b80534
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+acestream://560e2c415c3a5f1fa5b7a7a7d3329e19d648745c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+acestream://4ebfc0fec81001b9dd9127e7aa4d44af646caaae
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+acestream://48303d6f56613aca4765b0a8368ac4caa7766701
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
 acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
 acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
 acestream://498c56bd00f535e440c392de5af992421a31355c
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
 acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Liga_de_Campeones_2_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193608" ,M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
 acestream://ea03cc51980996ba6f2da49e30eee1de8a66ae54
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
-acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193609" ,M+ Liga de Campeones 3 
-acestream://07976f79d17a439d7aff46cf0d4cfdf80311caf5
 
 
 
